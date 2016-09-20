@@ -1,6 +1,6 @@
 ---
 contentdir: "content"
-layoutdir: "themes/Lanyon/layouts"
+layoutdir: "themes"
 publishdir: "public"
 indexes:
   category: "categories"
