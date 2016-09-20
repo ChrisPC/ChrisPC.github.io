@@ -1,10 +1,11 @@
 ---
 contentdir: "content"
-layoutdir: "layouts"
+layoutdir: "themes"
 publishdir: "public"
 indexes:
   category: "categories"
 baseurl: "http://ChrisPC.github.io"
 title: "Novel Interaction"
 canonifyurls: true
+theme: "Lanyon"
 ...
